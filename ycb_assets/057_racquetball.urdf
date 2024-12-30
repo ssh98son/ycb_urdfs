@@ -3,7 +3,7 @@
 		<visual>
 			<origin xyz="0.09071044745210352 1.2221649947970037 -0.2757113836293019" rpy="0 0 0" />
 			<geometry>
-				<mesh filename="057_racquetball/google_16k/textured.obj" scale="10 10 10" />
+				<mesh filename="057_racquetball/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
 			<material name="texture">
 				<color rgba="1.0 1.0 1.0 1.0" />
@@ -11,7 +11,7 @@
 		</visual>
 		<collision>
 			<geometry>
-				<mesh filename="057_racquetball/google_16k/textured_vhacd.obj" scale="10 10 10" />
+				<mesh filename="057_racquetball/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
 		<origin xyz="0.09071044745210352 1.2221649947970037 -0.2757113836293019" rpy="0 0 0" /></collision>
 		<inertial>

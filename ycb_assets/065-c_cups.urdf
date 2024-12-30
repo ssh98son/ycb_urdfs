@@ -3,7 +3,7 @@
 		<visual>
 			<origin xyz="0.1447497482279456 0.6461685625471408 -0.31162156357884613" rpy="0 0 0" />
 			<geometry>
-				<mesh filename="065-c_cups/google_16k/textured.obj" scale="10 10 10" />
+				<mesh filename="065-c_cups/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
 			<material name="texture">
 				<color rgba="1.0 1.0 1.0 1.0" />
@@ -11,7 +11,7 @@
 		</visual>
 		<collision>
 			<geometry>
-				<mesh filename="065-c_cups/google_16k/textured_vhacd.obj" scale="10 10 10" />
+				<mesh filename="065-c_cups/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
 		<origin xyz="0.1447497482279456 0.6461685625471408 -0.31162156357884613" rpy="0 0 0" /></collision>
 		<inertial>

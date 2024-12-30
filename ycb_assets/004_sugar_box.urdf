@@ -3,7 +3,7 @@
 		<visual>
 			<origin xyz="0.07698415494577894 0.1707816316229452 -0.8602381422432335" rpy="0 0 0" />
 			<geometry>
-				<mesh filename="004_sugar_box/google_16k/textured.obj" scale="10 10 10" />
+				<mesh filename="004_sugar_box/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
 			<material name="texture">
 				<color rgba="1.0 1.0 1.0 1.0" />
@@ -11,7 +11,7 @@
 		</visual>
 		<collision>
 			<geometry>
-				<mesh filename="004_sugar_box/google_16k/textured_vhacd.obj" scale="10 10 10" />
+				<mesh filename="004_sugar_box/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
 		<origin xyz="0.07698415494577894 0.1707816316229452 -0.8602381422432335" rpy="0 0 0" /></collision>
 		<inertial>

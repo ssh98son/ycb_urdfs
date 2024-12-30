@@ -3,7 +3,7 @@
 		<visual>
 			<origin xyz="0.46581043820340895 0.7860574843636465 -0.13189187861051138" rpy="0 0 0" />
 			<geometry>
-				<mesh filename="033_spatula/google_16k/textured.obj" scale="10 10 10" />
+				<mesh filename="033_spatula/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
 			<material name="texture">
 				<color rgba="1.0 1.0 1.0 1.0" />
@@ -11,7 +11,7 @@
 		</visual>
 		<collision>
 			<geometry>
-				<mesh filename="033_spatula/google_16k/textured_vhacd.obj" scale="10 10 10" />
+				<mesh filename="033_spatula/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
 		<origin xyz="0.46581043820340895 0.7860574843636465 -0.13189187861051138" rpy="0 0 0" /></collision>
 		<inertial>

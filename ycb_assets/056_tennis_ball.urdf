@@ -3,7 +3,7 @@
 		<visual>
 			<origin xyz="-0.08233239762589123 0.4419242630466529 -0.32886620637001623" rpy="0 0 0" />
 			<geometry>
-				<mesh filename="056_tennis_ball/google_16k/textured.obj" scale="10 10 10" />
+				<mesh filename="056_tennis_ball/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
 			<material name="texture">
 				<color rgba="1.0 1.0 1.0 1.0" />
@@ -11,7 +11,7 @@
 		</visual>
 		<collision>
 			<geometry>
-				<mesh filename="056_tennis_ball/google_16k/textured_vhacd.obj" scale="10 10 10" />
+				<mesh filename="056_tennis_ball/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
 		<origin xyz="-0.08233239762589123 0.4419242630466529 -0.32886620637001623" rpy="0 0 0" /></collision>
 		<inertial>
