@@ -1,7 +1,7 @@
 <robot name="054_softball">
 	<link name="_name">
 		<visual>
-			<origin xyz="0.1964979410061078 -0.10882535862384665 -0.46817133983924725" rpy="0 0 0" />
+			<origin xyz="0.019649794100610782 -0.010882535862384666 -0.04681713398392473" rpy="0 0 0" />
 			<geometry>
 				<mesh filename="054_softball/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
@@ -13,7 +13,7 @@
 			<geometry>
 				<mesh filename="054_softball/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
-		<origin xyz="0.1964979410061078 -0.10882535862384665 -0.46817133983924725" rpy="0 0 0" /></collision>
+		<origin xyz="0.019649794100610782 -0.010882535862384666 -0.04681713398392473" rpy="0 0 0" /></collision>
 		<inertial>
 			<mass value="1.0" />
 			<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0" />

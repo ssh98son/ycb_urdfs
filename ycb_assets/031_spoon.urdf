@@ -1,7 +1,7 @@
 <robot name="031_spoon">
 	<link name="_name">
 		<visual>
-			<origin xyz="0.1805591680130397 0.10160565119345408 -0.10048592434568833" rpy="0 0 0" />
+			<origin xyz="0.01805591680130397 0.010160565119345408 -0.010048592434568834" rpy="0 0 0" />
 			<geometry>
 				<mesh filename="031_spoon/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
@@ -13,7 +13,7 @@
 			<geometry>
 				<mesh filename="031_spoon/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
-		<origin xyz="0.1805591680130397 0.10160565119345408 -0.10048592434568833" rpy="0 0 0" /></collision>
+		<origin xyz="0.01805591680130397 0.010160565119345408 -0.010048592434568834" rpy="0 0 0" /></collision>
 		<inertial>
 			<mass value="1.0" />
 			<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0" />

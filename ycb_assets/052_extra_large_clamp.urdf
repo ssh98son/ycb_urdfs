@@ -1,7 +1,7 @@
 <robot name="052_extra_large_clamp">
 	<link name="_name">
 		<visual>
-			<origin xyz="0.2954993396051727 0.3660538138997692 -0.18078943770709877" rpy="0 0 0" />
+			<origin xyz="0.029549933960517274 0.036605381389976925 -0.018078943770709878" rpy="0 0 0" />
 			<geometry>
 				<mesh filename="052_extra_large_clamp/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
@@ -13,7 +13,7 @@
 			<geometry>
 				<mesh filename="052_extra_large_clamp/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
-		<origin xyz="0.2954993396051727 0.3660538138997692 -0.18078943770709877" rpy="0 0 0" /></collision>
+		<origin xyz="0.029549933960517274 0.036605381389976925 -0.018078943770709878" rpy="0 0 0" /></collision>
 		<inertial>
 			<mass value="1.0" />
 			<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0" />

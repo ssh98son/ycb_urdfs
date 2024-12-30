@@ -1,7 +1,7 @@
 <robot name="065-b_cups">
 	<link name="_name">
 		<visual>
-			<origin xyz="0.26747550267515285 0.5365431597117832 -0.2994142003313046" rpy="0 0 0" />
+			<origin xyz="0.026747550267515286 0.053654315971178326 -0.029941420033130463" rpy="0 0 0" />
 			<geometry>
 				<mesh filename="065-b_cups/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
@@ -13,7 +13,7 @@
 			<geometry>
 				<mesh filename="065-b_cups/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
-		<origin xyz="0.26747550267515285 0.5365431597117832 -0.2994142003313046" rpy="0 0 0" /></collision>
+		<origin xyz="0.026747550267515286 0.053654315971178326 -0.029941420033130463" rpy="0 0 0" /></collision>
 		<inertial>
 			<mass value="1.0" />
 			<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0" />

@@ -1,7 +1,7 @@
 <robot name="028_skillet_lid">
 	<link name="_name">
 		<visual>
-			<origin xyz="-0.04614896458822956 -0.28319651848624067 -0.2009889767674283" rpy="0 0 0" />
+			<origin xyz="-0.0046148964588229565 -0.028319651848624068 -0.020098897676742833" rpy="0 0 0" />
 			<geometry>
 				<mesh filename="028_skillet_lid/google_16k/textured.obj" scale="1 1 1" />
 			</geometry>
@@ -13,7 +13,7 @@
 			<geometry>
 				<mesh filename="028_skillet_lid/google_16k/textured_vhacd.obj" scale="1 1 1" />
 			</geometry>
-		<origin xyz="-0.04614896458822956 -0.28319651848624067 -0.2009889767674283" rpy="0 0 0" /></collision>
+		<origin xyz="-0.0046148964588229565 -0.028319651848624068 -0.020098897676742833" rpy="0 0 0" /></collision>
 		<inertial>
 			<mass value="1.0" />
 			<inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="1.0" iyz="0.0" izz="1.0" />
